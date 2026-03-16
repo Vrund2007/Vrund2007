@@ -80,7 +80,7 @@ Pandas • NumPy
 </a>
 
 <a href="https://github.com/Vrund2007/true-sight-ai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vrund2007&repo=true-sight-ai&theme=tokyonight&border_radius=10"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vrund2007&repo=true-sight-ai&theme=tokyonight&border_radius=10&v=2"/>
 </a>
 
 <a href="https://github.com/Vrund2007/examgenius-ai">
