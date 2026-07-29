@@ -160,7 +160,6 @@ I enjoy building systems that combine **intelligence, scalability, and real-worl
 
 # GitHub Analytics
 
-
 <!-- STREAK STATS -->
 <p align="center">
   <a href="https://github.com/Vrund2007">
@@ -168,16 +167,11 @@ I enjoy building systems that combine **intelligence, scalability, and real-worl
   </a>
 </p>
 
-<!-- CONTRIBUTION GRAPH - Using reliable endpoint -->
+<!-- CONTRIBUTION GRAPH -->
 <p align="center">
   <a href="https://github.com/Vrund2007">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrund2007&theme=tokyo-night&hide_border=true&area=true&area_color=6C63FF&custom_title=Vrund's%20Contribution%20Graph" alt="Contribution Graph" />
   </a>
-</p>
-
-<!-- SNAKE GAME - Fun addition -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vrund2007/Vrund2007/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -187,21 +181,21 @@ I enjoy building systems that combine **intelligence, scalability, and real-worl
 <p align="center">
 
 <a href="https://www.linkedin.com/in/vrund-jotania-053460334/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://x.com/Vrund_2007">
-<img src="https://skillicons.dev/icons?i=twitter"/>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 
 <a href="mailto:vrundjotania20@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-</p>
+<a href="https://vrund-jotania.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+</a>
 
-<p align="center">
-Portfolio – Coming Soon
 </p>
 
 ---
