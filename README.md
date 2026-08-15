@@ -117,38 +117,41 @@ I enjoy building systems that combine **intelligence, scalability, and real-worl
   <table>
     <tr>
       <td align="center">
-        <h3>🏙️ UrbanEase</h3>
-        <p>Urban management system for smart cities</p>
+        <h3>🏙️ MoveSmart</h3>
+        <p>AI-powered relocation platform with smart housing and locality insights</p>
         <p>
           <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js" />
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql" />
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django" />
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb" />
+          <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat" />
         </p>
-        <a href="https://github.com/Vrund2007/UrbanEase-main">
+        <a href="https://github.com/Vrund2007/MoveSmart">
           <img src="https://img.shields.io/badge/⭐_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
       <td align="center">
-        <h3>🤖 TrueSight AI</h3>
-        <p>AI-powered insights and analytics platform</p>
+        <h3>📸 SnapClass</h3>
+        <p>AI-powered attendance system using face and voice recognition</p>
         <p>
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask" />
-          <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow" />
+          <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit" />
+          <img src="https://img.shields.io/badge/DeepFace-000000?style=flat" />
+          <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv" />
         </p>
-        <a href="https://github.com/Vrund2007/true-sight-ai">
+        <a href="https://github.com/Vrund2007/SnapClass">
           <img src="https://img.shields.io/badge/⭐_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
       <td align="center">
-        <h3>📚 ExamGenius AI</h3>
-        <p>AI-powered exam preparation assistant</p>
+        <h3>🎨 Neural Style Transfer</h3>
+        <p>Real-time arbitrary artistic style transfer using AdaIN</p>
         <p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" />
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js" />
-          <img src="https://img.shields.io/badge/AI-FF6F00?style=flat&logo=tensorflow" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python" />
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch" />
+          <img src="https://img.shields.io/badge/VGG--19-FF6F00?style=flat" />
+          <img src="https://img.shields.io/badge/AdaIN-6C63FF?style=flat" />
         </p>
-        <a href="https://github.com/Vrund2007/examgenius-ai">
+        <a href="https://github.com/Vrund2007/Neural-Style-Transfer">
           <img src="https://img.shields.io/badge/⭐_View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
