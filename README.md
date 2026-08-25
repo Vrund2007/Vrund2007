@@ -173,7 +173,7 @@ I enjoy building systems that combine **intelligence, scalability, and real-worl
 <!-- CONTRIBUTION GRAPH -->
 <p align="center">
   <a href="https://github.com/Vrund2007">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrund2007&theme=tokyo-night&hide_border=true&area=true&area_color=6C63FF&custom_title=Vrund's%20Contribution%20Graph" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vrund2007&theme=react&hide_border=true&area=true&custom_title=Vrund%27s%20Contribution%20Graph&color=6C63FF&line=6C63FF&point=6C63FF&area_color=6C63FF" alt="Contribution Graph" />
   </a>
 </p>
 
