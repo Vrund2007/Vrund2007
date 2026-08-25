@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-AI/ML • Full-Stack Developer • DevOps
+AI/ML • Full-Stack Developer • DevOps Enthusiast
 </h3>
 
 <p align="center">
@@ -11,24 +11,26 @@ Ahmedabad, India
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=700&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI+systems;Full-stack+developer;Machine+learning+enthusiast;Automation+focused+engineer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=700&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+AI+systems;Full-stack+developer;Machine+learning+enthusiast;Exploring+DevOps+%26+Cloud;Automation+focused+engineer"/>
 </p>
 
 ---
 
 # About Me
 
-Computer Engineering student focused on building **AI-driven software and full-stack applications**.
+Computer Engineering student focused on building **AI-driven software, full-stack applications, and automated deployment systems**.
 
 Currently focusing on:
 
-- Machine Learning  
-- Data Structures & Algorithms  
-- Artificial Intelligence  
-- Modern Web Development  
-- Automation Systems  
+- Machine Learning
+- Data Structures & Algorithms
+- Artificial Intelligence
+- Modern Web Development
+- DevOps & Cloud
+- CI/CD & Automation
+- Monitoring & Observability
 
-I enjoy building systems that combine **intelligence, scalability, and real-world usefulness**.
+I enjoy building systems that combine **intelligence, scalability, automation, and real-world usefulness**.
 
 ---
 
@@ -49,7 +51,8 @@ I enjoy building systems that combine **intelligence, scalability, and real-worl
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ### Databases
@@ -73,7 +76,39 @@ I enjoy building systems that combine **intelligence, scalability, and real-worl
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+</p>
+
+### DevOps & Automation
+<p align="left">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
+
+### Cloud & Deployment
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+### Tools & Platforms
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ### Computer Science
@@ -82,25 +117,8 @@ I enjoy building systems that combine **intelligence, scalability, and real-worl
 <img src="https://img.shields.io/badge/Algorithms-4ECDC4?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/OOP-45B7D1?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/DBMS-96CEB4?style=for-the-badge&logo=database&logoColor=white"/>
-</p>
-
-### Tools & Platforms
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
-
-### Cloud & Deployment
-<p align="left">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Operating_Systems-6C63FF?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer_Networks-007ACC?style=for-the-badge&logo=cisco&logoColor=white"/>
 </p>
 
 ### Design
