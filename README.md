@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-AI/ML Engineer • Full-Stack Developer
+AI/ML • Full-Stack Developer • DevOps
 </h3>
 
 <p align="center">
